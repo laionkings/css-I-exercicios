@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: helvetica, sans-serif;
+}
+
+.bloco{
+   padding: 10px;
+   width: 27%;
+   
+}
+
+#bloco-1{
+    margin: 20px;
+    border: 5px solid rgb(183, 120, 4);
+    width: 300px;
+    background-color: orange;
+    color: aliceblue;
+    text-align: center;
+}
+
+#bloco-2{
+    margin: 20px;
+    border: 5px solid rgb(92, 159, 3);
+    width: 300px;
+    background-color: rgb(83, 130, 1);
+    color: aliceblue;
+    text-align: center;
+}
+
+
+#bloco-3{
+    margin: 20px;
+    border: 5px dashed rgb(132, 221, 15);
+    width: 300px;
+    background-color: rgba(61, 95, 2, 0.944);
+    color: aliceblue;
+    text-align: center;
+}
+
+
+#bloco-4{
+    margin: 20px;
+    border: 5px dashed rgb(236, 49, 49);
+    width: 300px;
+    background-color: rgba(142, 6, 6, 0.944);
+    color: aliceblue;
+    text-align: center;
+}
